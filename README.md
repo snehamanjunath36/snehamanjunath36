@@ -1,7 +1,7 @@
 # Hey!!!✨✨
 
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Sneha+Manjunath.;+)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Sneha+Manjunath.;+)
 
 - 🌱 I’m currently working on Python and its libraries
 - 📫 Reach me www.linkedin.com/in/sneha-manjunath-mcz2b2gmjr
