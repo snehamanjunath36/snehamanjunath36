@@ -1,10 +1,10 @@
-# Hey!!!✨✨
+# Hey There!!
 
-# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Sneha+Manjunath.;+)
+# I am Sneha Manjunath
 
-- 🌱 I’m currently working on Python and its libraries
-- 📫 Reach me www.linkedin.com/in/sneha-manjunath-mcz2b2gmjr
+- 👩‍💻 I’m currently learning "Machine Learning"
+- 😍 I'm into "WebDev"
+- 📫 Reach me <a href = "www.linkedin.com/in/sneha-manjunath-mcz2b2gmjr"> Sneha Manjuanth </a>
 
 # 📊 GitHub Stats:
  <img src="https://github-readme-stats.vercel.app/api?username=snehamanjunath36&theme=prussian&hide_border=false&include_all_commits=true&count_private=true">
