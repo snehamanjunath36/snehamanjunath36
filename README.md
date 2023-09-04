@@ -50,7 +50,7 @@
          
 ### 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=snehamanjunath36&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="Image 1">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=snehamanjunath36&theme=prussian" alt="Image 2">
 </div>
